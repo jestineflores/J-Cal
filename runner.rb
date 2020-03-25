@@ -1,6 +1,8 @@
 require_relative 'config/environment'
 
-Cli.new.start_game
+calendar = Cli.new
 
+calendar.welcome
 
+calendar.main_menu
 
