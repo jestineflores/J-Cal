@@ -18,7 +18,7 @@ bundle install
 rake db:migrate
 ruby runner.rb
 ```
-This will allow you to successfully launch J-Cal in your teriminal.  
+This will allow you to successfully launch J-Cal in your terminal.  
 Be sure to enter your dates and times in the format of:
 ```
 2020-03-25 09:00
