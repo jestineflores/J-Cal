@@ -2,7 +2,15 @@
 
 This is my first official application.  It is a Cli application and is not currently available for phones, but a terminal.  
 ## How-To
-Make a folder on your computer and run:
+You might have to install Ruby if you haven't done so already.  Use:
+```
+sudo apt-get install ruby-full
+```
+or if you're on a Mac it should already come installed.
+
+Make a folder in your terminal typing "mkdir folder name"
+
+Clone down the repository by pasting: 
 ```
 git clone git@github.com:jsabath/J-Cal.git
 ```
