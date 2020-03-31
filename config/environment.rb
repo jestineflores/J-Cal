@@ -1,3 +1,4 @@
+$VERBOSE=nil 
 require 'bundler/setup'
 Bundler.require
 require 'pry'
